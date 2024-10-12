@@ -39,7 +39,7 @@
 
 .title {
   font-weight: bold;
-  font-size: 1.2em; 
+  font-size: 1.2em;
 }
 
 .card {
@@ -55,7 +55,6 @@
   padding: 10px;
   position: relative;
 }
-Th
 
 h1 {
   text-align: center;
@@ -71,10 +70,9 @@ div {
   padding: 20px;
 }
 
-.container{
+.container {
   text-align: center;
 }
-
 
 .description {
   font-size: 0.8em;
